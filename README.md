@@ -10,3 +10,8 @@ MyChat is a simple multithreaded client/server chat system where the server can 
 6. Repeat step 5 for more clients.
 7. Start chatting.
 
+### Screenshots
+#### Server
+<img src="/screenshots/myChatServer.jpg" /> <br >
+#### Client
+<img src="/screenshots/myChatClient.jpg" /> 
